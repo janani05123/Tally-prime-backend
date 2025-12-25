@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Debug files
+*.pid
+*.seed
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Temp files
+*.tmp
+*.temp
+
+# Cache
+.cache/
